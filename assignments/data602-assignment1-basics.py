@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
+Name: Chinedu Onyeka
+Course: DATA602: Advanced Programming Techniques (Python)
+Date: February 4th, 2022
 Assignment #1
 
 1. Add / modify code ONLY between the marked areas (i.e. "Place code below")
@@ -14,6 +17,7 @@ Assignment #1
 
 
 '''
+# Import required libraries
 import math
 import unittest
 
