@@ -1,6 +1,7 @@
 '''
 Course: DATA602 - Advanced Programming Techniques
 Name: Chinedu Onyeka
+Date: February 12th, 2022
 
 Assignment #2
 
@@ -114,7 +115,6 @@ def exercise05(n):
     if n < 0: # check for negative number
         return "Cannot find the factorial of a negative number"
     elif n == 0 or n == 1: # factorial of 0 or 1 is 1
-        factorial = 1
         return factorial
     else:
         recursion = exercise05(n-1)
