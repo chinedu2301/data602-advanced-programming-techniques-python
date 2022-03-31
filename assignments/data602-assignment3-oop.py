@@ -1,4 +1,8 @@
 '''
+Name: Chinedu Onyeka
+Date: March 21st, 2022
+
+
 Assignment #3
 
 1. Add / modify code ONLY between the marked areas (i.e. "Place code below"). Do not modify or add code elsewhere.
@@ -23,10 +27,13 @@ class Box():
     """
     creates an object box
     
-    -------------------------------
-    args:
-        length: The length of the box
-        width: The width of the box
+    
+    parameters
+    ----------
+        length: int, float, double, long
+            The length of the box
+        width: int, float, double, long
+            The width of the box
         
         length and width of box should be of the same units
     """
